@@ -3,5 +3,6 @@
  */
 fun main(args: Array<String>) {
     val greetings = "Hello World!"
-    print(greetings)
+    println(greetings)
+    println(greetings)
 }
